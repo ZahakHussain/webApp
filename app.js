@@ -20,3 +20,4 @@ app.use("/", require("./routes/user.js"));
 app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
+ // kaam kara nhi
